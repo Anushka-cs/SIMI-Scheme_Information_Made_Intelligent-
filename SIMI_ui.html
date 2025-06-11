@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Chatbot UI</title>
+    <style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh; /* This tries to make the body take full viewport height */
+    }
+    .chat-container {
+        width: 100%;
+        max-width: 600px; /* This limits the overall width of the chat */
+        height: 80vh; /* This limits the overall height of the chat to 80% of viewport height */
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+    }
+    
+    df-messenger {
+        width: 100%;
+        height: 100%;
+        
+    }
+</style>
+</head>
+<body>
+    <div class="chat-container">
+        <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-title="Simi_chatbot_Agent"
+  agent-id="1f73caa6-ae66-406f-8a88-375b988d8a78"
+  language-code="en"
+></df-messenger>
+        </div>
+
+
+
+</body>
+</html>

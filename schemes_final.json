@@ -1,0 +1,790 @@
+[
+  {
+    "scheme_name": "Post-Matric Scholarship for OBC Students",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "target_group": "Other Backward Classes (OBC)",
+    "eligibility": "OBC students studying post-matriculation courses (Class 11 onwards) in India",
+    "benefits": "Maintenance allowance and tuition reimbursement based on eligibility criteria.",
+    "application_process": "Apply via NSP or state-specific portals, subject to notification.",
+    "scope": "All India",
+    "status": "Active",
+    "source": "https://socialjustice.gov.in or scholarships.gov.in"
+  },
+  {
+    "Scheme Title": "Savitribai Jyotirao Phule Fellowship For Single Girl Child",
+    "Description": "A fellowship scheme by the University Grants Commission (UGC) to support single girl children pursuing Ph.D. research in various disciplines.",
+    "Eligibility": {
+      "Target Group": "Single girl child (only girl child in the family or one of twin daughters)",
+      "Education": "Registered in a regular, full-time Ph.D. program in a recognized university/college/institute",
+      "Age Limit": {
+        "General Category": "Up to 40 years",
+        "Reserved Categories (SC/ST/OBC/PWD)": "Up to 45 years"
+      },
+      "Exclusions": [
+        "Families with one or more sons and one daughter",
+        "Ph.D. courses pursued in part-time/distance mode"
+      ]
+    },
+    "Benefits": {
+      "Tenure": "5 years or until submission of Ph.D. thesis, whichever is earlier",
+      "Financial Assistance": {
+        "Fellowship": {
+          "JRF": "₹ 31,000 per month for initial two years",
+          "SRF": "₹ 35,000 per month for remaining tenure"
+        },
+        "Contingency": {
+          "Humanities & Social Sciences": [
+            "₹ 10,000 per year for initial two years",
+            "₹ 20,500 per year for remaining tenure"
+          ],
+          "Science, Engineering & Technology": [
+            "₹ 12,000 per year for initial two years",
+            "₹ 25,000 per year for remaining tenure"
+          ]
+        },
+        "Escort Reader Assistance": "₹ 3,000 per month for Divyang scholars",
+        "HRA": "As per Govt. of India norms"
+      }
+    },
+    "Leave": {
+      "Earned Leave": "Maximum 30 days per year",
+      "Maternity/Paternity Leave": "As per Govt. of India norms",
+      "Intermittent Break": "Up to 1 year (maximum 3 times)",
+      "Academic Leave": "Up to 1 year (without fellowship)"
+    },
+    "Application Process": {
+      "Mode": "Online",
+      "Steps": [
+        "Read guidelines on UGC website",
+        "Register as a new user",
+        "Login with credentials",
+        "Fill eligibility criteria",
+        "Submit required documents",
+        "Complete Ph.D. details",
+        "Submit declaration"
+      ],
+      "Application Link": "https://frg.ugc.ac.in/"
+    },
+    "Department / Ministry": "University Grants Commission (UGC), Department of Higher Education",
+    "Target Beneficiaries": {
+      "Gender": "Female",
+      "Caste": "SC/ST/OBC/PWD candidates receive relaxed eligibility criteria",
+      "Education": "Ph.D. candidates in recognized institutions",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "Coaching Schemes For SC/ST/OBC (Non-Creamy Layer) & Minority Students For Universities",
+    "Description": "A coaching scheme aimed at providing equal opportunities and academic support to students from SC, ST, OBC (non-creamy layer), and minority communities to help them pursue higher education and competitive exams.",
+    "Eligibility": {
+      "Target Groups": [
+        "Scheduled Castes (SC)",
+        "Scheduled Tribes (ST)",
+        "Other Backward Classes (OBC) (Non-Creamy Layer)",
+        "Minority Communities",
+        "General candidates holding BPL Cards"
+      ],
+      "Institutions Eligible": [
+        "Universities and colleges under Section 2(f) and 12(B) of the UGC Act, 1956",
+        "Institutions with a sufficient number of SC/ST/OBC/Minority students"
+      ]
+    },
+    "Benefits": {
+      "Remedial Coaching": [
+        "Improves academic skills and linguistic proficiency",
+        "Strengthens knowledge and comprehension of subjects",
+        "Provides career guidance and psychological counseling"
+      ],
+      "Coaching for Entry into Services": [
+        "Prepares students for employment in Group A, B, and C services",
+        "Orients students for exams like IAS, State Public Services, Bank recruitment"
+      ],
+      "Coaching for NET/SET": [
+        "Prepares SC/ST/OBC/Minority candidates for NET/SET exams",
+        "Enhances selection opportunities for university lecturer positions"
+      ],
+      "Financial Assistance": {
+        "Non-Recurring Items": [
+          "One-time grant up to ₹ 5.0 lakhs per scheme",
+          "Books, journals, audio-visual aids, computers, printers, photocopiers, generators"
+        ],
+        "Recurring Items": [
+          "₹ 7.0 lakhs per university per scheme per annum",
+          "Honorarium for coordinators, remuneration for teachers and scholars",
+          "Part-time staff salaries, contingency funds"
+        ]
+      }
+    },
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.myscheme.gov.in/schemes/csmsu"
+    },
+    "Department / Ministry": "University Grants Commission (UGC), Ministry of Minority Affairs",
+    "Target Beneficiaries": {
+      "Caste": "SC/ST/OBC (Non-Creamy Layer)",
+      "Economic Status": "Minority communities and BPL cardholders",
+      "Education": "Students enrolled in universities and colleges",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "Scholarships to Students with Disabilities Scheme",
+    "Description": "A state-sponsored scholarship scheme by the Department of Social Security and Women & Child Development, Government of Punjab, aimed at supporting students with disabilities in their education and training.",
+    "Eligibility": {
+      "Disability Requirement": "40% and above disability (as per RPwD Act 2016)",
+      "Income Limit": "Monthly family/guardian income should not exceed ₹5,000",
+      "Academic Requirement": "Minimum 40% marks in the previous annual examination",
+      "Applicable Levels": "Students from Class 1 onwards"
+    },
+    "Benefits": {
+      "Scholarship Amount": {
+        "Class 1 to 8": "₹200 per month",
+        "Class 9 onwards": "₹300 per month"
+      },
+      "Payment Mode": "Scholarship credited online to the student's bank account"
+    },
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.india.gov.in/scholarship-scheme-student-disabilities"
+    },
+    "Department / Ministry": "Department of Social Security and Women & Child Development, Government of Punjab",
+    "Target Beneficiaries": {
+      "Disability": "Students with disabilities (40% and above)",
+      "Economic Status": "Families with income below ₹5,000 per month",
+      "Education": "Students enrolled in schools from Class 1 onwards",
+      "State": "Punjab"
+    }
+  },
+
+  {
+    "Scheme Title": "Award of Opportunity Cost to Parents of Scheduled Caste Girl Students",
+    "Description": "A financial assistance scheme by the Adi Dravidar Welfare Department, Government of Puducherry, aimed at supporting Scheduled Caste parents in sending their daughters to school instead of engaging in labor.",
+    "Eligibility": {
+      "Target Group": "Scheduled Caste girl students",
+      "Education Level": "Class VI to XII in Government or Government-recognized institutions",
+      "Nativity Requirement": "Native of Puducherry by birth or continuous residence for at least 3 years",
+      "Income Limit": "Annual parental income should not exceed ₹24,000",
+      "Promotion Requirement": "Opportunity cost is payable only if the girl student is promoted to the next higher class"
+    },
+    "Benefits": {
+      "Financial Assistance": "₹3,000 per academic year per daughter",
+      "Additional Support": "Opportunity cost is provided in addition to the Pre-Matric Scholarship"
+    },
+    "Application Process": {
+      "Mode": "Online",
+      "Steps": [
+        "Register on the NSP Portal",
+        "Receive Student Registration ID",
+        "Login and fill out the application form",
+        "Submit required documents",
+        "Receive system-generated registration number"
+      ],
+      "Application Link": "https://www.myscheme.gov.in/schemes/aocpscgs"
+    },
+    "Department / Ministry": "Adi Dravidar Welfare Department, Government of Puducherry",
+    "Target Beneficiaries": {
+      "Gender": "Female",
+      "Caste": "Scheduled Caste",
+      "Education": "Students enrolled in Class VI to XII",
+      "State": "Puducherry"
+    }
+  },
+  {
+    "Scheme Title": "Pre Matric Scholarship For Students With Disabilities",
+    "Description": "A scholarship scheme by the Department of Empowerment of Persons with Disabilities (DoEPwDs) to support students with disabilities studying in Class 9th and 10th in government or recognized schools.",
+    "Eligibility": {
+      "Education Level": "Class 9th or Class 10th",
+      "Disability Requirement": "40% or above disability (as per RPwD Act 2016)",
+      "Income Limit": "Total annual income of parents/guardians must not exceed ₹2.00 Lakh",
+      "Other Conditions": [
+        "Applicant must not be availing any other government scholarship",
+        "Applicant must not be the third sibling receiving this scholarship"
+      ]
+    },
+    "Benefits": {
+      "Maintenance Allowance": {
+        "Day Scholars": "₹500 per month",
+        "Hostellers": "₹800 per month"
+      },
+      "Book Grant": "₹1,000 per annum",
+      "Disability Allowances": {
+        "Visually Impaired": "₹4,000 per annum",
+        "Hearing Impaired": "₹2,000 per annum",
+        "Physically Disabled (OH)": "₹2,000 per annum",
+        "Intellectual Disabilities": "₹4,000 per annum",
+        "Other Disabilities": "₹2,000 per annum"
+      }
+    },
+    "Exclusions": [
+      "Scholarship will not be given to more than two students from a family (except in case of twins)",
+      "Scholarship holders cannot receive any other stipend",
+      "False information/document submission leads to recovery with 15% compound interest and blacklisting",
+      "Students repeating a class will not receive the scholarship for that class again"
+    ],
+    "Application Process": {
+      "Mode": "Online",
+      "Steps": [
+        "Prepare required documents",
+        "Register on the National Scholarship Portal",
+        "Fill out the application form",
+        "Submit necessary documents",
+        "Receive system-generated registration number"
+      ],
+      "Application Link": "https://www.myscheme.gov.in/schemes/pre-dis"
+    },
+    "Department / Ministry": "Department of Empowerment of Persons with Disabilities (DoEPwDs), Ministry of Social Justice and Empowerment",
+    "Target Beneficiaries": {
+      "Disability": "Students with disabilities (40% and above)",
+      "Economic Status": "Families with income below ₹2.00 Lakh per annum",
+      "Education": "Students enrolled in Class 9th and 10th",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "Ishan Uday Special Scholarship Scheme For North Eastern Region",
+    "Description": "A scholarship scheme by the Ministry of Education and the University Grants Commission (UGC) to promote higher education in the North Eastern Region (NER) by providing financial assistance to economically weaker students.",
+    "Eligibility": {
+      "Domicile Requirement": "Applicant must be a domicile of NER",
+      "Income Limit": "Parental annual income should not exceed ₹4,50,000",
+      "Education Requirement": "Passed Class 12th or equivalent in the preceding year",
+      "Admission Requirement": "Secured admission in the first year of a degree course in recognized institutions",
+      "Eligible Institutions": [
+        "Universities/Institutions/Colleges under Section 2(f) and 12(B) of UGC Act",
+        "Deemed Universities under Section 3 of UGC Act, 1956",
+        "Universities/Institutions/Colleges funded by Central/State Government",
+        "Institutes of National Importance",
+        "Institutions recognized by other statutory councils"
+      ]
+    },
+    "Benefits": {
+      "Scholarship Slots": "10,000 fresh scholarships per year",
+      "Financial Assistance": {
+        "General Degree Courses": "₹5,400 per month",
+        "Technical/Medical/Professional/Paramedical Courses": "₹7,800 per month"
+      },
+      "Payment Mode": "Direct Benefit Transfer (DBT) to the beneficiary’s bank account"
+    },
+    "Renewals": {
+      "Conditions": [
+        "Scholarship renewed annually based on good conduct and attendance",
+        "Students failing to get promoted to the next class will forfeit the scholarship",
+        "Change in course of study leads to forfeiture of scholarship"
+      ]
+    },
+    "Exclusions": [
+      "Students pursuing courses through Open Universities",
+      "Students already availing scholarships under other schemes",
+      "Students admitted through management quota",
+      "Students pursuing diploma courses that do not lead to a degree",
+      "Students whose parental income exceeds ₹4,50,000"
+    ],
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.buddy4study.com/article/ishan-uday"
+    },
+    "Department / Ministry": "Ministry of Education, University Grants Commission (UGC)",
+    "Target Beneficiaries": {
+      "Region": "North Eastern Region (NER)",
+      "Economic Status": "Economically weaker students",
+      "Education": "Students pursuing general, technical, medical, and professional courses"
+    }
+  },
+  {
+    "Scheme Title": "General Poor Class Scholarship (Class 6 to 8)",
+    "Description": "A scholarship scheme by the School Education Department, Government of Madhya Pradesh, aimed at supporting students from economically weaker backgrounds studying in government schools.",
+    "Eligibility": {
+      "Residency Requirement": "Permanent resident of Madhya Pradesh",
+      "Education Level": "Class 6 to 8",
+      "School Type": "Government school",
+      "Economic Status": "Below Poverty Line (BPL) category",
+      "Income Limit": "Annual family income should not exceed ₹1,00,000",
+      "Academic Requirement": "Student must have passed the previous class"
+    },
+    "Benefits": {
+      "Scholarship Amount": {
+        "Girl Students": "₹300 per year",
+        "Boy Students": "₹200 per year"
+      },
+      "Payment Mode": "Direct transfer to the student's bank account"
+    },
+    "Application Process": {
+      "Mode": "Offline",
+      "Steps": [
+        "Eligible students should contact the Principal of their respective government schools",
+        "School teachers enter student profiles on the education portal",
+        "Verification and approval process"
+      ],
+      "Application Link": "https://www.myscheme.gov.in/schemes/gpcs"
+    },
+    "Department / Ministry": "School Education Department, Government of Madhya Pradesh",
+    "Target Beneficiaries": {
+      "Economic Status": "BPL category students",
+      "Education": "Students enrolled in government schools from Class 6 to 8",
+      "State": "Madhya Pradesh"
+    }
+  },
+
+  {
+    "Scheme Title": "Merit-cum-Means Scholarships For Undergraduate Studies In Various Branches Of Agriculture And Animal Science Subjects",
+    "Description": "A scholarship scheme by the Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), aimed at attracting meritorious students to pursue undergraduate studies in Agriculture, Agricultural Engineering, Home Science, Dairy, and Animal Husbandry.",
+    "Eligibility": {
+      "Residency Requirement": "Applicant must be domiciled in India",
+      "Academic Requirement": "Minimum 60% marks or equivalent grade points in the qualifying examination",
+      "Means Test": "Parental annual income should not exceed ₹1,00,000",
+      "Preferred Candidates": "Higher marks in science subjects considered in case of a tie",
+      "Eligible Courses": [
+        "Agriculture",
+        "Agricultural Engineering",
+        "Home Science",
+        "Dairy",
+        "Animal Husbandry"
+      ]
+    },
+    "Benefits": {
+      "Scholarship Amount": "₹1,000 per month per student",
+      "Duration": "Tenable for the full duration of the degree course",
+      "Additional Recognition": "Students exceeding the income limit may receive a national prize of ₹500 and a certificate of merit"
+    },
+    "Application Process": {
+      "Mode": "Offline",
+      "Steps": [
+        "Visit the University/College during office hours",
+        "Request the prescribed application form",
+        "Fill in all mandatory fields and attach required documents",
+        "Submit the completed application form to the concerned authority",
+        "Request a receipt or acknowledgment upon submission"
+      ],
+      "Application Link": "https://www.myscheme.gov.in/schemes/mcms-ugsvb-aass"
+    },
+    "Department / Ministry": "Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE)",
+    "Target Beneficiaries": {
+      "Economic Status": "Students from families with annual income below ₹1,00,000",
+      "Education": "Undergraduate students in Agriculture and Animal Science subjects",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "Scheme For Award Of Financial Assistance For Education To The Wards Of Beedi/Cine/IOMC/LSDM Workers – Pre & Post-Matric",
+    "Description": "A scholarship scheme by the Directorate of Social Welfare, Ministry of Labour and Employment, providing financial assistance for education to the wards of Beedi, Iron Ore Mines, Manganese Ore & Chrome Ore Mines (IOMC), Limestone Mines, Dolomite Mines (LSDM), Mica Mines, and Cine Workers.",
+    "Eligibility": {
+      "Education Requirement": "Regular admission in recognized institutions for general or technical education, including medical, engineering, and agricultural studies",
+      "Income Limit": {
+        "Beedi Workers": "₹10,000 per month",
+        "Mine Workers": [
+          "Manual, unskilled, highly skilled, and clerical workers eligible regardless of wages",
+          "Supervisory and managerial employees eligible if wages do not exceed ₹10,000 per month"
+        ],
+        "Cine Workers": [
+          "₹8,000 per month if paid monthly",
+          "₹1,00,000 if paid in lump sum or installments"
+        ]
+      },
+      "Academic Requirement": "Passed last qualifying examination on the first attempt or promoted to the next class",
+      "Parental Employment": "At least one parent must be a Beedi, IOMC, LSDM, or Cine worker with at least six months of service",
+      "Institution Type": "Government or Government-recognized institute",
+      "Bank Account Requirement": "Scholar must have a separate bank account"
+    },
+    "Benefits": {
+      "Financial Assistance": {
+        "Class 1st to 4th": "₹1,000 per annum",
+        "Class 5th to 8th": "₹1,500 per annum",
+        "Class 9th & 10th": "₹2,000 per annum",
+        "Class 11th & 12th": "₹3,000 per annum",
+        "Industrial Training Institute (ITI)": "₹6,000 per annum",
+        "Polytechnic": "₹6,000 per annum",
+        "Degree Courses (including B.Sc. Agriculture)": "₹6,000 per annum",
+        "Professional Courses": "₹25,000 per annum"
+      },
+      "Payment Mode": "Direct Benefit Transfer (DBT) system"
+    },
+    "Exclusions": [
+      "Scholarship obtained through false statements",
+      "Discontinuation of studies",
+      "Change in course or institution without approval",
+      "Unsatisfactory academic progress or misconduct",
+      "Parent ceasing to be a Beedi/Mine/Cine worker",
+      "Students pursuing studies through correspondence",
+      "Students receiving scholarships from other sources"
+    ],
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.myscheme.gov.in/schemes/safaew-bcew"
+    },
+    "Department / Ministry": "Directorate of Social Welfare, Ministry of Labour and Employment",
+    "Target Beneficiaries": {
+      "Economic Status": "Wards of Beedi, IOMC, LSDM, and Cine workers",
+      "Education": "Students enrolled in recognized institutions",
+      "State": "Open to candidates across India"
+    },
+    "Tags": [
+      "Financial Assistance",
+      "Scholarship",
+      "Student",
+      "Beedi Workers",
+      "Mine Workers",
+      "Cine Workers",
+      "Education"
+    ]
+  },
+  {
+    "Scheme Title": "Free Education For Sports Medal Winners / Participants Of National/ International Events",
+    "Description": "A scholarship scheme by the University Grants Commission, Ministry of Education, aimed at supporting medal-winning sportspersons pursuing higher education and motivating them to excel in both sports and academics.",
+    "Eligibility": {
+      "Target Group": "Medal winners of National Games and participants in recognized international sporting events",
+      "Recognized Events": [
+        "Olympics",
+        "World Championship",
+        "Commonwealth Games",
+        "Asian Games",
+        "Afro-Asian Games",
+        "Asian Championship",
+        "World University Games",
+        "SAF Games",
+        "National Level Competitions"
+      ],
+      "Eligible Institutions": [
+        "Universities/Institutions/Colleges under sections 2(f) and 12(b) of the UGC Act, 1956",
+        "Deemed Universities under section 3 of the UGC Act, 1956",
+        "Universities/Institutions/Colleges funded by Central/State Government",
+        "Institutes of National Importance"
+      ],
+      "Renewal Criteria": "Scholarship renewal depends on continued sports performance"
+    },
+    "Benefits": {
+      "Tuition Fee Coverage": "Actual tuition fees for eligible courses",
+      "Monthly Stipend": {
+        "M.Phil": "₹7,500 per month + Actual tuition",
+        "Ph.D.": "As per JRF scale (UGC)",
+        "MBA/Professional Courses": "₹7,500 per month + Actual tuition"
+      },
+      "Hostel Facilities": "Actual boarding and lodging expenses covered",
+      "Kit Allowance": {
+        "Olympics/World Championship": "₹15,000 per annum",
+        "Asian Championship/World University Games": "₹7,500 per annum",
+        "National Level Competitions": "₹6,000 per annum"
+      },
+      "Special Courses Abroad": "Allowances as per Government of India norms"
+    },
+    "Exclusions": [
+      "Misconduct reported by the institution",
+      "Unsatisfactory academic progress",
+      "Change in course or institution without approval",
+      "Scholarship termination upon recommendation by the university"
+    ],
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.myscheme.gov.in/schemes/fesmwpnie"
+    },
+    "Department / Ministry": "University Grants Commission (UGC), Ministry of Education",
+    "Target Beneficiaries": {
+      "Sports Achievements": "National medalists and international participants",
+      "Education": "Students pursuing higher education in recognized institutions",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana: Central Sector Interest Subsidy Scheme",
+    "Description": "A scheme by the Ministry of Education, Government of India, providing full interest subsidy during the moratorium period on education loans for students from economically weaker sections.",
+    "Eligibility": {
+      "Income Limit": "Parental annual income up to ₹4.5 lakhs",
+      "Education Loan Requirement": "Loans taken under the IBA Model Education Loan Scheme",
+      "Course Requirement": "Professional/technical courses from NAAC accredited institutions, NBA accredited programs, Institutions of National Importance, or Centrally Funded Technical Institutions (CFTIs)",
+      "Admissibility": "Applicable only once for Undergraduate or Postgraduate degree courses, including Integrated Courses",
+      "Exclusions": [
+        "Students availing other Central/State Government scholarships or fee reimbursements",
+        "Students discontinuing courses midstream (except for medical reasons)",
+        "Students expelled on disciplinary or academic grounds"
+      ]
+    },
+    "Benefits": {
+      "Interest Subsidy": "Provided for a maximum loan amount of ₹10 lakhs",
+      "Collateral Requirement": "No collateral security or third-party guarantee required for loans up to ₹7.5 lakhs",
+      "Moratorium Period": "Course period plus one year",
+      "Interest Concession": "Banks may provide a 1% interest concession if interest is serviced during the study period and moratorium period"
+    },
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.myscheme.gov.in/schemes/csss-cus"
+    },
+    "Department / Ministry": "Ministry of Education, Government of India",
+    "Target Beneficiaries": {
+      "Economic Status": "Economically weaker sections",
+      "Education": "Students pursuing professional/technical courses",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "CBSE Merit Scholarship Scheme For Single Girl Child",
+    "Description": "A scholarship scheme by the Ministry of Education for meritorious single girl students who are the only child of their parents and have passed the CBSE Class 10th Examination with 60% or more marks.",
+    "Eligibility": {
+      "Target Group": "Single girl child",
+      "Academic Requirement": "Passed CBSE Class 10th with 60% or more marks",
+      "Education Level": "Studying in Class 11th & 12th in CBSE-affiliated schools",
+      "Tuition Fee Limit": "Not more than ₹1,500 per month (10% enhancement allowed over two years)",
+      "Nationality": "Indian Nationals",
+      "Additional Eligibility": "NRI applicants eligible with a tuition fee limit of ₹6,000 per month"
+    },
+    "Benefits": {
+      "Scholarship Amount": "₹500 per month",
+      "Duration": "Maximum of two years",
+      "Payment Mode": "ECS/NEFT"
+    },
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.cbse.gov.in/cbsenew/scholar/SGC%20Sship%20Scheme.pdf"
+    },
+    "Department / Ministry": "Ministry of Education, Government of India",
+    "Target Beneficiaries": {
+      "Gender": "Female",
+      "Education": "Students enrolled in CBSE-affiliated schools",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "Prime Minister’s Special Scholarship Scheme For The Students Of Union Territories Of Jammu & Kashmir And Ladakh",
+    "Description": "A scholarship scheme by AICTE for students domiciled in J&K and Ladakh, providing financial assistance for higher education outside these UTs.",
+    "Eligibility": {
+      "Domicile Requirement": "Applicant must be a domicile of J&K or Ladakh",
+      "Education Requirement": "Passed Class 12th from JKBOSE or CBSE-affiliated schools in J&K or Ladakh",
+      "Income Limit": "Family income should not exceed ₹8,00,000 per annum",
+      "Lateral Entry": "Diploma holders from recognized Polytechnic Institutes in J&K and Ladakh",
+      "Application Requirement": "Compulsory online registration on AICTE portal"
+    },
+    "Benefits": {
+      "Scholarship Slots": "5000 fresh scholarships per annum",
+      "Financial Assistance": {
+        "General Degree Courses": {
+          "Scholarships Available": "2070",
+          "Academic Fee": "₹30,000",
+          "Maintenance Allowance": "₹1,00,000 per annum"
+        },
+        "Professional/Engineering Courses": {
+          "Scholarships Available": "2830",
+          "Academic Fee": "₹1,25,000",
+          "Maintenance Allowance": "₹1,00,000 per annum"
+        },
+        "Medical Courses": {
+          "Scholarships Available": "100",
+          "Academic Fee": "₹3,00,000",
+          "Maintenance Allowance": "₹1,00,000 per annum"
+        }
+      },
+      "Payment Mode": "Direct Benefit Transfer (DBT) using PFMS gateway"
+    },
+    "Exclusions": [
+      "Students pursuing courses through Open Universities",
+      "Students availing benefits from other scholarship schemes",
+      "Students admitted through Management Quota",
+      "Students pursuing Diploma or Postgraduate courses",
+      "Students with family income exceeding ₹8,00,000 per annum",
+      "Students not applying through AICTE portal",
+      "Students admitted to non-prescribed colleges"
+    ],
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.myscheme.gov.in/schemes/pmsss"
+    },
+    "Department / Ministry": "All India Council for Technical Education (AICTE), Ministry of Education",
+    "Target Beneficiaries": {
+      "Region": "Union Territories of Jammu & Kashmir and Ladakh",
+      "Economic Status": "Students from families with income below ₹8,00,000",
+      "Education": "Students pursuing higher education outside J&K and Ladakh"
+    }
+  },
+  {
+    "Scheme Title": "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme",
+    "Description": "A financial support scheme by the Ministry of Education, Government of India, providing collateral-free, guarantor-free education loans with interest subvention for meritorious students pursuing higher education.",
+    "Eligibility": {
+      "Target Group": "Indian citizens aged 18 to 23 years",
+      "Academic Requirement": "Merit-based admission to one of the 860 designated Quality Higher Educational Institutions (QHEIs)",
+      "Income Limit": "Annual family income up to ₹8,00,000 for 3% interest subvention",
+      "Education Level": "Technical/professional courses",
+      "Exclusions": [
+        "Students admitted through management quota",
+        "Students receiving other Central/State Government scholarships or fee reimbursements",
+        "Students discontinuing courses midstream or expelled on disciplinary/academic grounds"
+      ]
+    },
+    "Benefits": {
+      "Loan Features": [
+        "Collateral-free and guarantor-free education loans",
+        "Loan amount covers tuition fees, hostel fees, living expenses, and other associated costs",
+        "No upper limit on loan amount"
+      ],
+      "Interest Subvention": [
+        "3% interest subvention on loans up to ₹10,00,000 for students with annual family income up to ₹8,00,000",
+        "Full interest subvention for students with annual family income up to ₹4,50,000 under PM-USP CSIS"
+      ],
+      "Credit Guarantee": "75% credit guarantee by the Government of India for loan amounts up to ₹7,50,000",
+      "Repayment Period": "Up to 15 years, excluding moratorium period",
+      "Additional Interest Concession": "Up to 1% if interest is serviced during study and moratorium period",
+      "Payment Mode": "Interest subvention credited to e-voucher/Programmable Central Bank Digital Currency (CBDC) wallet"
+    },
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.myscheme.gov.in/schemes/pmvs"
+    },
+    "Department / Ministry": "Department of Higher Education, Ministry of Education, Government of India",
+    "Target Beneficiaries": {
+      "Economic Status": "Students from families with income below ₹8,00,000",
+      "Education": "Students pursuing technical/professional courses",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "National Scheme Of Incentive To Girls For Secondary Education",
+    "Description": "A scheme by the Ministry of Education aimed at promoting the enrollment and retention of girl students from Scheduled Caste (SC) and Scheduled Tribe (ST) communities in secondary education.",
+    "Eligibility": {
+      "Target Group": "Girl students",
+      "Caste Requirement": "Scheduled Caste (SC) / Scheduled Tribe (ST)",
+      "Academic Requirement": "Passed Class 8th from Kasturba Gandhi Balika Vidyalayas",
+      "Enrollment Requirement": "Enrolled in Class 9th in State/UT Government, Government-aided, or local body schools from the academic year 2008-09 onwards"
+    },
+    "Benefits": {
+      "Financial Assistance": "₹3,000 deposited in a fixed deposit in a public sector bank or post office",
+      "Withdrawal Conditions": "No premature withdrawal allowed; funds accessible upon reaching 18 years of age"
+    },
+    "Exclusions": [
+      "Married girls",
+      "Students studying in private unaided schools",
+      "Students enrolled in Central Government-run schools"
+    ],
+    "Application Process": {
+      "Mode": "Online",
+      "Steps": [
+        "Visit the National Scholarships Portal",
+        "Register and obtain an Application ID",
+        "Login and complete the application form",
+        "Submit required documents",
+        "Verification by State authorities",
+        "Final approval and fund disbursement"
+      ],
+      "Application Link": "https://www.myscheme.gov.in/schemes/nsigse"
+    },
+    "Department / Ministry": "Ministry of Education, Government of India",
+    "Target Beneficiaries": {
+      "Gender": "Female",
+      "Caste": "SC/ST",
+      "Education": "Students enrolled in secondary education",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University Students",
+    "Description": "A scholarship scheme by the Department of Higher Education, Ministry of Education, providing financial assistance to meritorious students from economically weaker families for higher studies.",
+    "Eligibility": {
+      "Academic Requirement": "Above the 80th percentile of successful candidates in Class 12th Board Examination",
+      "Education Level": "Pursuing regular degree courses in recognized institutions",
+      "Income Limit": "Parental/family income should not exceed ₹4,50,000 per annum",
+      "Attendance Requirement": "At least 75% attendance for scholarship renewal",
+      "Exclusions": [
+        "Students pursuing correspondence or distance mode courses",
+        "Students availing benefits from other scholarship schemes"
+      ]
+    },
+    "Benefits": {
+      "Scholarship Amount": {
+        "Graduation Level": "₹12,000 per annum for the first three years",
+        "Post-Graduation Level": "₹20,000 per annum",
+        "Professional Courses (5-year duration)": "₹20,000 per annum for the 4th and 5th year",
+        "Technical Courses (B.Tech, B.Engg.)": "₹12,000 per annum for the first three years, ₹20,000 in the 4th year"
+      },
+      "Disbursal Mode": "Direct Benefit Transfer (DBT) to the beneficiary’s bank account"
+    },
+    "Application Process": {
+      "Mode": "Online",
+      "Steps": [
+        "Visit the National Scholarships Portal",
+        "Register and obtain an Application ID",
+        "Login and complete the application form",
+        "Submit required documents",
+        "Verification by State authorities",
+        "Final approval and fund disbursement"
+      ],
+      "Application Link": "https://www.myscheme.gov.in/schemes/csss-cus"
+    },
+    "Department / Ministry": "Department of Higher Education, Ministry of Education",
+    "Target Beneficiaries": {
+      "Economic Status": "Students from families with income below ₹4,50,000",
+      "Education": "Students pursuing graduate, postgraduate, and professional courses",
+      "State": "Open to candidates across India"
+    }
+  },
+  {
+    "Scheme Title": "Pragati Scholarship Scheme For Girl Students (Technical Diploma)",
+    "Description": "A scholarship scheme by AICTE, Ministry of Education, aimed at supporting girl students pursuing technical diploma courses in AICTE-approved institutions.",
+    "Eligibility": {
+      "Target Group": "Girl students",
+      "Education Level": "First-year or second-year (through lateral entry) of a technical diploma course",
+      "Income Limit": "Annual family income should not exceed ₹8,00,000",
+      "Eligible Regions": [
+        "Andaman and Nicobar Islands",
+        "Jammu and Kashmir",
+        "Ladakh",
+        "Dadra and Nagar Haveli & Daman and Diu",
+        "Lakshadweep",
+        "Arunachal Pradesh",
+        "Assam",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Sikkim",
+        "Tripura"
+      ]
+    },
+    "Benefits": {
+      "Financial Assistance": "₹50,000 per annum for up to 3 years (for first-year students) or 2 years (for lateral entry students)",
+      "Usage": "Covers college fees, purchase of computer, stationeries, books, equipment, software",
+      "Exclusions": "No additional grant for hostel charges, medical expenses"
+    },
+    "Exclusions": [
+      "Students who fail or drop out in subsequent years",
+      "Students receiving financial assistance from other sources",
+      "Students with a gap of more than two years between passing the qualifying exam and admission",
+      "Scholarship applicable to a maximum of two girl children per family"
+    ],
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.myscheme.gov.in/schemes/psgs-dip"
+    },
+    "Department / Ministry": "All India Council for Technical Education (AICTE), Ministry of Education",
+    "Target Beneficiaries": {
+      "Gender": "Female",
+      "Education": "Students pursuing technical diploma courses",
+      "State": "Open to candidates from specified regions"
+    }
+  },
+  {
+    "Scheme Title": "AICTE – Saksham Scholarship Scheme For Specially-Abled Student (Degree)",
+    "Description": "A scholarship scheme by the Ministry of Education, implemented by AICTE, aimed at supporting specially-abled students in pursuing technical education.",
+    "Eligibility": {
+      "Education Level": "First-year or second-year (through lateral entry) of a degree-level course in AICTE-approved institutions",
+      "Disability Requirement": "Not less than 40% disability",
+      "Income Limit": "Annual family income should not exceed ₹8,00,000",
+      "Required Documents": "Valid income certificate issued by State/UT Government"
+    },
+    "Benefits": {
+      "Financial Assistance": "₹50,000 per annum for up to 4 years (for first-year students) or 3 years (for lateral entry students)",
+      "Usage": "Covers college fees, purchase of computer, stationeries, books, equipment, software",
+      "Payment Mode": "Direct Benefit Transfer (DBT) on an annual basis",
+      "Renewal Conditions": "Scholarship renewal requires submission of passing certificate/mark sheet and letter from the Head of Institution"
+    },
+    "Exclusions": [
+      "Students failing to get promoted to the next class",
+      "Students with a gap of more than two years between passing the qualifying exam and admission",
+      "Students receiving financial assistance from other sources",
+      "Students who drop out in subsequent years"
+    ],
+    "Application Process": {
+      "Mode": "Online",
+      "Application Link": "https://www.myscheme.gov.in/schemes/sak-deg"
+    },
+    "Department / Ministry": "All India Council for Technical Education (AICTE), Ministry of Education",
+    "Target Beneficiaries": {
+      "Disability": "Specially-abled students",
+      "Education": "Students pursuing technical degree courses",
+      "State": "Open to candidates across India"
+    }
+  }
+]
