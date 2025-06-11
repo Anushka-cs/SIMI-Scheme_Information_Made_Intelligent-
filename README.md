@@ -18,13 +18,12 @@
 
 ## 🗂️ Project Structure
 
-~ 
-simi-ai/
-├── app.py                  # Main Flask application with webhook logic
-├── schemes_final.json      # JSON file containing schemes data
-├── requirements.txt        # Project dependencies (Flask==2.3.2)
+
+
+├── app.py                  # Main Flask application with webhook logic     
+├── schemes_final.json      # JSON file containing schemes data          
+├── requirements.txt        # Project dependencies (Flask==2.3.2)       
 └── README.md               # This README file
-~
 
 ## 🛠️ Getting Started
 
@@ -73,3 +72,6 @@ csharp
 
 ![image](https://github.com/user-attachments/assets/181498a6-a45f-4686-87be-e4728b6ffeb7)
 
+
+
+## VIDEO LINK : https://drive.google.com/file/d/17HZv8tlIgXFKqF7nYS-prllMHGN37FIt/view?usp=sharing
