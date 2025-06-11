@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Simi AI – Chatbot</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #4f46e5, #3b82f6);
+      color: white;
+      text-align: center;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      background-color: #1e3a8a;
+      padding: 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+
+    nav a {
+      color: white;
+      margin-left: 1rem;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .main-content {
+      flex: 1;
+      padding: 3rem 1rem 1rem;
+    }
+
+    .main-content h1 {
+      font-size: 2.3rem;
+      margin-bottom: 1rem;
+    }
+
+    .main-content p {
+      font-size: 1.1rem;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    .features-section {
+      background-color: #ffffff;
+      color: #1e3a8a;
+      padding: 3rem 1rem;
+    }
+
+    .features-section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 2rem;
+    }
+
+    .features-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 2rem;
+    }
+
+    .feature-card {
+      background: #eef2ff;
+      border-radius: 10px;
+      padding: 1.5rem;
+      width: 250px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    }
+
+    .feature-card h3 {
+      margin-bottom: 0.5rem;
+      color: #1e3a8a;
+    }
+
+    .feature-card p {
+      font-size: 0.95rem;
+    }
+
+    .chat-container {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 9999;
+    }
+
+    footer {
+      background-color: #1e3a8a;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">🧠 SIMI AI</div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#features">Features</a>
+      <a href="#chat">Chat</a>
+    </nav>
+  </header>
+
+  <div class="main-content">
+    <h1>Talk to SIMI – Your Government Scheme Assistant 🤖</h1>
+    <p>Ask about scholarships, eligibility, or support for your studies. SIMI gives personalized answers based on your profile.</p>
+  </div>
+
+  <!-- ✅ Features Section -->
+  <section class="features-section" id="features">
+    <h2>What Can SIMI Do?</h2>
+    <div class="features-grid">
+      <div class="feature-card">
+        <h3>🎯 Personalized</h3>
+        <p>Recommendations based on age, income, caste, education level, and state.</p>
+      </div>
+      <div class="feature-card">
+        <h3>📚 Over 100+ Schemes</h3>
+        <p>Access to verified central and state-level government scholarships and aid programs.</p>
+      </div>
+      <div class="feature-card">
+        <h3>⚡ Fast & Smart</h3>
+        <p>Built using Google Gemini AI + ChromaDB for real-time, intelligent responses.</p>
+      </div>
+      <div class="feature-card">
+        <h3>🔒 Secure</h3>
+        <p>Your information is used only to match eligibility. No data is stored or shared.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ✅ Dialogflow Chatbot -->
+  <div class="chat-container" id="chat">
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+    <df-messenger
+      chat-title="Simi_chatbot_Agent"
+      agent-id="1f73caa6-ae66-406f-8a88-375b988d8a78"
+      language-code="en"
+    ></df-messenger>
+  </div>
+
+  <footer>
+    © 2025 SIMI AI – Empowering Students Across India 🇮🇳
+  </footer>
+</body>
+</html>
